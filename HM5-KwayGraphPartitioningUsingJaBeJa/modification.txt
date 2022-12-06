@@ -1,0 +1,20 @@
+Config : 
+add variable : 
+-Model
+-Restart
+-CoefRestart
+
+and their functions
+
+gnuplot:
+add the graph of temperature
+
+CLI:
+add the new variables to the setup
+
+
+Jabeja:
+sampleAndSwap (creation)
+findPartner (creation)
+saCoolDown (modification)
+saveToFile (modification of name of the file and save Temperature)
